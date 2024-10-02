@@ -19,7 +19,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Code-sHimanshu&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Code-sHimanshu&icon=9&color=8)](https://visitcount.itsvg.in)
 
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=Code-sHimanshu&label=Profile%20Views&color=11&icon=8&pretty=false" />
