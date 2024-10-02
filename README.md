@@ -21,4 +21,10 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Code-sHimanshu&icon=9&color=8)](https://visitcount.itsvg.in)
 
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Code-sHimanshu&label=Profile%20Views&color=11&icon=8&pretty=false" />
+</a>
+
+[![](https://visitcount.itsvg.in/api?id=Code-sHimanshu&label=Profile%20Views&color=11&icon=8&pretty=false)](https://visitcount.itsvg.in)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
