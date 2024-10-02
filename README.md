@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Code-sHimanshu<br>👀 I’m interested in ... (e.g., AI, Machine Learning, Web Development)<br>🌱 I’m currently learning ... (e.g., deep learning, full-stack development)<br>💞️ I’m looking to collaborate on ... (e.g., open-source projects, innovative tech solutions)<br>📫 How to reach me ... (e.g., email, social media handles)<br>😄 Pronouns: ... (e.g., he/him)<br>⚡ Fun fact: ... (e.g., "I love coding challenges!")
+👋 Hi, I’m @Code-sHimanshu<br>👀 I’m interested in ... (e.g., AI, Machine Learning, DL, Web Development, App Development)<br>🌱 I’m currently learning ... (e.g., Deep Learning, Machine Learning Full-Stack Web development, Android App Development)<br>💞️ I’m looking to collaborate on ... (e.g., open-source projects, innovative tech solutions)<br>📫 How to reach me ... (e.g., himanshu.singh_@outlook.com, insta- _shimanshu.singh_)<br>😄 Pronouns: ... (e.g., he/him)<br>⚡ Fun fact: ... (e.g., "I love coding challenges!")
 
 
 ## 🌐 Socials:
