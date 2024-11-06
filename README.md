@@ -1,6 +1,8 @@
 # 💫 About Me:
 👋 Hi, I’m @Code-sHimanshu<br>👀 I’m interested in ... (e.g., AI, Machine Learning, DL, Web Development, App Development)<br>🌱 I’m currently learning ... (e.g., Deep Learning, Machine Learning Full-Stack Web development, Android App Development)<br>💞️ I’m looking to collaborate on ... (e.g., open-source projects, innovative tech solutions)<br>📫 How to reach me ... (e.g., himanshu.singh_@outlook.com, insta- _shimanshu.singh_ )<br>😄 Pronouns: ... (e.g., he/him)<br>⚡ Fun fact: ... (e.g., "I love coding challenges!")
 
+Portfolio Website: https://code-shimanshu.github.io/
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Himanshu Singh Shivam) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_shimanshu.singh_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([himanshu-singh-392699286](https://www.linkedin.com/in/himanshu-singh-392699286/)) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/singhhimanshu71952) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/shimanshusingh_) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@HIMANSHUSINGH-yj1ew) 
 
