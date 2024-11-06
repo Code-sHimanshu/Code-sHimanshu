@@ -4,6 +4,9 @@
 Portfolio Website: https://code-shimanshu.github.io/
 
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="himanshu-singh-392699286" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/himanshu-singh-392699286?trk=profile-badge">Himanshu Singh</a></div>
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="himanshu-singh-392699286" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/himanshu-singh-392699286?trk=profile-badge">Himanshu Singh</a></div>
+              
               
 
 ## 🌐 Socials:
