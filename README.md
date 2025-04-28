@@ -1,9 +1,13 @@
+# 📱Visit My Portfolio At:
+[![Portfolio](https://img.icons8.com/dotty/80/40C057/portfolio.png)](https://atineshwar.github.io/Himanshu-Vista/) 
+## Himanshu's Vista
+
+
 # 💫 About Me:
 🛰 I’m currently working on<br>→ SentiMetrix, Lung Cancer Detection using VGG19, and a Hybrid Multilingual Chatbot powered by AI.<br><br>🧑‍🤝‍🧑 I’m looking to collaborate on<br>→ AI/ML-based research projects, open-source healthcare solutions, or intelligent assistants with real-world impact.<br><br>🧠 I’m looking for help with<br>→ Optimizing multi-model pipelines, deploying scalable ML solutions, and exploring multilingual NLP techniques.<br><br>🌱 I’m currently learning<br>→ Generative AI, LangChain, advanced Prompt Engineering, and full-stack development with Next.js.<br><br>💬 Ask me about<br>→ Python, Machine Learning, Deep Learning, FastAPI, NLP, and deploying AI models in production.<br><br>⚡ Fun fact<br>→ I love building smart systems that make life easier—sometimes even before the user realizes they need it!<br>
 
 
 ## 🌐 Socials:
-[![Portfolio](<img width="80" height="80" src="https://img.icons8.com/dotty/80/40C057/portfolio.png" alt="portfolio"/>)](https://atineshwar.github.io/Himanshu-Vista/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_shimanshu.singh_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/himanshu-singh-392699286/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shimanshu.3107@gmail.com) 
 
 # 💻 Tech Stack:
