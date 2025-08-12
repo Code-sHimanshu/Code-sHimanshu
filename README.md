@@ -1,7 +1,10 @@
 <!-- Animated Header with Name and Tagline -->
-<div align="center" style="animation: fadeIn 1.5s ease-in-out;">
-  <h1 style="font-size: 2.5rem; margin-bottom: 0; color: #6e48aa; text-shadow: 2px 2px 4px rgba(0,0,0,0.1);">Himanshu Singh</h1>
+<div align="center" style="typing: fadeIn 1.5s ease-in-out;">
+  <h1 style="font-size: 17.5rem; margin-bottom: 0; color: #6e48aa; text-shadow: 2px 2px 4px rgba(0,7,10,0.1);">👋 Hello there! I'm Himanshu Singh</h1>
   <p style="font-size: 1.2rem; margin-top: 0.5rem; background: linear-gradient(90deg, #6e48aa 0%, #9c50b6 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold;">AI/ML Engineer | Python Developer | Building Intelligent Systems</p>
+  <p align="center">
+  <img src="https://img.shields.io/endpoint?url=https://yasinkalkan.com/api/githubvisitorstats/track/?user=Code-sHimanshu" alt="Profile Visits"/>
+</p>
 </div>
 
 ## 🌐 Socials:
@@ -17,10 +20,18 @@
   </a>
 </div>
 
-<!-- AI/ML Focus Section with Pulse Animation -->
-<div align="center" style="margin: 2rem 0; animation: pulse 2s infinite alternate;">
-  <h2 style="color: #6e48aa; display: inline-block; border-bottom: 3px solid #9c50b6; padding-bottom: 5px;">AI/ML & Python Specialist</h2>
-</div>
+## 💼 Current Position
+  🔹 **AI/ML Intern @InlighnX Global Pvt. Ltd.**  
+  📍 *Remote*  
+  🗓️ *Aug 2025 - Present*
+
+## 🧳 Past Experience
+  🔹 **Software Development Intern**  
+  📍 *Adarshbridge Finance Private Limited, Prayagraj*  
+  🗓️ *Nov 2024 – May 2025*  
+ - Completed a 6-month internship developing software solutions, contributing to the company's official software to enhance user experience and           accessibility. Applied programming skills to real-world financial applications.
+
+
 
 # 💻 Core Tech Stack:
 <div align="center" style="animation: fadeIn 1.5s ease-in-out;">
@@ -60,14 +71,6 @@
   </ul>
 </div>
 
-# 🏢 Professional Experience
-<div style="background: linear-gradient(135deg, #e0e5ec 0%, #f5f7fa 100%); padding: 25px; border-radius: 15px; margin: 2rem 0; box-shadow: 0 10px 20px rgba(0,0,0,0.1); transition: all 0.5s ease; animation: slideUp 1.2s ease-out;" onmouseover="this.style.transform='translateY(-10px)'; this.style.boxShadow='0 15px 30px rgba(0,0,0,0.2)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 10px 20px rgba(0,0,0,0.1)'">
-  <h3 style="color: #6e48aa; margin-bottom: 10px; display: flex; align-items: center; gap: 10px;">
-    <span style="font-size: 1.5em;">💼</span> Software Development Intern
-  </h3>
-  <h4 style="color: #9c50b6; margin-top: 0;">Adarshbridge Finance Private Limited, Prayagraj</h4>
-  <p style="color: #34495e;">Completed a 6-month internship developing software solutions, contributing to the company's official software to enhance user experience and accessibility. Applied programming skills to real-world financial applications.</p>
-</div>
 
 # 📊 GitHub Stats:
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center; animation: fadeIn 2s ease-in-out;">
@@ -77,6 +80,13 @@
   </div>
   <img src="https://nirzak-streak-stats.vercel.app/?user=Code-sHimanshu&theme=shades-of-purple&hide_border=false" alt="Streak Stats" style="border-radius: 10px; transition: all 0.5s ease; max-width: 100%; box-shadow: 0 8px 16px rgba(0,0,0,0.1);" onmouseover="this.style.transform='scale(1.03)'; this.style.boxShadow='0 12px 24px rgba(0,0,0,0.2)'" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 8px 16px rgba(0,0,0,0.1)'">
 </div>
+
+<h3 align="center">📈 GitHub Contribution Graph</h3>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Code-sHimanshu&theme=react-dark" alt="GitHub Contribution Graph"/>
+</p>
+
 
 ## 🏆 GitHub Trophies
 <div style="display: flex; justify-content: center; animation: fadeIn 2s ease-in-out;">
@@ -96,10 +106,6 @@
 
 
 ---
-<div style="display: flex; justify-content: center; margin-top: 30px; animation: fadeIn 2.5s ease-in-out;">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Code-sHimanshu&icon=10&color=7" alt="Visitor Count" style="transition: all 0.3s ease; filter: drop-shadow(0 0 5px rgba(110, 72, 170, 0.5));" onmouseover="this.style.transform='scale(1.2) rotate(5deg)'; this.style.filter='drop-shadow(0 0 10px rgba(110, 72, 170, 0.8))'" onmouseout="this.style.transform='scale(1) rotate(0)'; this.style.filter='drop-shadow(0 0 5px rgba(110, 72, 170, 0.5))'">
-  </a>
-</div>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
