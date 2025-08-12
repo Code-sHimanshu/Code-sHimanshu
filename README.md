@@ -1,4 +1,4 @@
-<!-- Animated Header with Name and Tagline -->
+;<!-- Animated Header with Name and Tagline -->
 <div align="center" style="typing: fadeIn 1.5s ease-in-out;">
   <h1 style="font-size: 17.5rem; margin-bottom: 0; color: #6e48aa; text-shadow: 2px 2px 4px rgba(0,7,10,0.1);">👋 Hello there! I'm Himanshu Singh</h1>
   <p style="font-size: 1.2rem; margin-top: 0.5rem; background: linear-gradient(90deg, #6e48aa 0%, #9c50b6 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold;">AI/ML Engineer | Python Developer | Building Intelligent Systems</p>
@@ -9,7 +9,7 @@
 
 ## 🌐 Socials:
 <div align="center" style="display: flex; justify-content: center; gap: 15px; animation: slideUp 1s ease-out;">
-  <a href="https://instagram.com/me.himanshu.singh_" target="_blank">
+  <a href="https://instagram.com/_me.himanshu_" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" style="transition: all 0.3s ease; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" onmouseover="this.style.transform='translateY(-5px) scale(1.1)'; this.style.boxShadow='0 8px 16px rgba(0,0,0,0.2)'" onmouseout="this.style.transform='translateY(0) scale(1)'; this.style.boxShadow='0 4px 8px rgba(0,0,0,0.1)'">
   </a>
   <a href="https://www.linkedin.com/in/shimanshu3107/" target="_blank">
