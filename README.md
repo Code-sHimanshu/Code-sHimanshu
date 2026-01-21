@@ -1,7 +1,7 @@
 <!-- Animated Header with Name and Tagline -->
 <div align="center" style="typing: fadeIn 1.5s ease-in-out;">
   <h1 style="font-size: 17.5rem; margin-bottom: 0; color: #6e48aa; text-shadow: 2px 2px 4px rgba(0,7,10,0.1);">👋 Hello there! I'm Himanshu Singh</h1>
-  <p style="font-size: 1.2rem; margin-top: 0.5rem; background: linear-gradient(90deg, #6e48aa 0%, #9c50b6 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold;">AI/ML Engineer | Python Developer | Building Intelligent Systems</p>
+  <p style="font-size: 1.2rem; margin-top: 0.5rem; background: linear-gradient(90deg, #6e48aa 0%, #9c50b6 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold;">AI/ML Engineer | Python Developer | Building Intelligent Systems | Open To Work</p>
   <p align="center">
   <img src="https://img.shields.io/endpoint?url=https://yasinkalkan.com/api/githubvisitorstats/track/?user=Code-sHimanshu" alt="Profile Visits"/>
 </p>
